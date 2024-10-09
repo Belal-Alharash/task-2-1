@@ -1,0 +1,109 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:fantasy;
+}
+.nav img
+{
+  display: block;
+  margin: 0 auto;
+}
+.nav
+{
+  padding: 20px;
+  background-color: rgb(117, 112, 112);
+  text-align: center;
+  color: rgb(2, 2, 2);
+}
+.nav h1 
+{
+margin: 20px;
+font-size: 25px;
+}
+.nav h2
+{
+margin: 5px;
+font-size: 20px;
+}
+.nav h3
+{
+margin: 5px;
+font-size: 20px;
+}
+.all-sections
+{
+  border-bottom: 2px solid rgb(196, 182, 182);
+  margin: 20px;
+}
+.main
+{
+  border: 2px solid rgb(196, 182, 182);
+  width: 700px;
+  margin: 10px auto;
+}
+.Contact
+{
+  display: flex;
+}
+.underline
+{
+  text-decoration: none;
+  color: white;
+}
+.cards
+{
+  width: 150px;
+  font-size: 13px;
+  color: white;
+  background-color: rgb(5, 77, 231);
+  padding: 30px 10px 30px 10px;
+  border-radius: 3px;
+  text-align: center;
+  margin: 5px 5px ;
+}
+.card2
+{
+ margin: 20px 5px 20px 20px;
+}
+.card3
+{
+  margin: 20px 5px;
+}
+.card4
+{
+  margin: 20px 20px 20px 5px;
+}
+.follow
+{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.line
+{
+  text-decoration: none;
+  margin: 10px;
+}
+.Experience
+{
+  display: flex;
+  justify-content: center;
+}
+.Education
+{
+  display: flex;
+  justify-content: center;
+}
+.Programming-Skills
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.Interests
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
